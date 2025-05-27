@@ -68,6 +68,9 @@ Books
 
 01. [Angreji Bolna Seekhein Also How to Face Interviews & Group Disussions](https://www.amazon.in/Angreji-Bolna-Seekhein-Interviews-Disussions/dp/8183481388)
 
+02. [https://readastory.org.in/](https://readastory.org.in/) - A collection of stories to improve your English speaking skills. You can read these stories and try to understand the meaning of the words. It will help you to improve your vocabulary and understanding of the language.
+03. [https://monkeypen.com/](https://monkeypen.com/) - English stories for kids.
+
 </details>
 
 ## Vocabs
