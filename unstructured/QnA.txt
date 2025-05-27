@@ -1,0 +1,89 @@
+Q: How was your day?
+A: My day was good! I went to college and studied. What about you?
+
+Q: What did you eat for lunch?
+A: I ate rice and vegetables. It was delicious!
+
+Q: Do you like to cook?
+A: Yes, I like cooking. It's fun to try new recipes.
+
+Q: What time do you wake up?
+A: I usually wake up at 7 AM. I try to start my day early.
+
+Q: What is your favourite hobby?
+A: I love reading books. It helps me relax. What’s yours?
+
+Q: Do you like watching movies?
+A: Yes, I enjoy watching movies, especially superhero movies!
+
+Q: Do you play any sports?
+A: I sometimes play badminton. It’s a great way to stay fit.
+
+Q: What music do you like to listen to?
+A: I like listening to Punjabi songs. They are very energetic!
+
+Q: What are your plans for the weekend?
+A: I plan to relax and watch some movies. What about you?
+
+Q: Where do you want to travel in the future?
+A: I would love to visit Shimla one day. It’s a beautiful place.
+
+Q: What do you want to do after finishing college?
+A: I want to work in the IT field and maybe start my own business.
+
+Q: Do you have any plans for this year?
+A: Yes, I want to improve my English and work on my coding skills.
+
+Q: What is your favorite subject in college?
+A: My favorite subject is Computer Science. It’s very interesting.
+
+Q: Do you like online learning?
+A: Yes, online learning is flexible, and I can study anytime I want.
+
+Q: Do you enjoy group projects?
+A: Yes, working in a team is fun, and we can learn from each other.
+
+Q: What is your opinion on social media?
+A: Social media is good for staying connected, but we should not spend too much time on it.
+
+Q: What colour is your hair?
+A: My hair colour is black.
+
+Q: Do you have any pets?
+A: Yes, I have a cat. Her name is Bella, and she is very cute.
+
+Q: What is your favorite food?
+A: My favorite food is pizza. I can eat it anytime!
+
+Q: Do you like traveling? Where do you want to go?
+A: Yes, I love traveling. I want to visit Paris one day because it’s so beautiful.
+
+Q: What is your favorite color?
+A: My favorite color is blue. It’s calm and peaceful.
+
+Q: What kind of movies do you enjoy watching?
+A: I enjoy romantic comedies. They are fun and light-hearted.
+
+Q: What is your favorite season of the year?
+A: I love winter because I enjoy the cold weather and wearing cozy clothes.
+
+Q: What is your dream job?
+A: My dream job is to become a fashion designer. I love creating new styles.
+
+Q: Where do you see yourself in 5 years?
+A: In 5 years, I see myself working in a good company and continuing to learn new things.
+
+Q: Do you like trying new things?
+A: Yes, I enjoy trying new things. It’s exciting and helps me grow.
+
+Q: What makes you happy?
+A: Spending time with my family and friends makes me the happiest.
+
+Q: What is one thing you cannot live without?
+A: I cannot live without my phone! It keeps me connected with everyone.
+
+Q: What is your favorite memory?
+A: My favorite memory is going on a family trip to the mountains. It was so much fun!
+
+Q: What are you passionate about?
+A: I am passionate about painting. It’s my way of expressing creativity.

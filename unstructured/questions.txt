@@ -1,0 +1,31 @@
+1. Hi, My name is Abhi. What's your name?
+
+2. Where are you from ?
+Ans => I'm from Chattisgarh.
+
+3. What do you do?
+Ans => I'm a college student and I'm pursuing my B Tech CSE. Currently I'm in my 3rd year.
+
+4. Do you have any hobbies?
+
+5. Is this your first day using this app?
+
+6. Do you like watching movies ?
+
+7. Can you give me some tips on improving my English?
+
+8. How do you stay motivated when learning something new?
+
+9. How long has it been since you started using this app? 
+Ans => I have been using this app for 1 month now. 
+
+10. Why you are learning english ?
+Ans => I'm learning English to improve my communication skills and expand my opportunities for education and career advancement. It's a global language that allows me to connect with people from diverse backgrounds and cultures. Plus, mastering English opens doors to a wealth of knowledge and resources available in this language.
+
+11. Have you had breakfast
+12. How do you like to spend your free time?
+
+13. What’s your favorite animal?
+14. What’s your favorite place to visit?
+Ans => 
+15. How was your day?
