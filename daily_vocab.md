@@ -39,6 +39,51 @@ pledge - प्रतिज्ञा
 devotion - भक्ति
 
 
+minuscule (adj) = extremely small
+overarching (adj) = व्यापक
+nimiety = excess
+bouquet (बुˈके) = a bunch of flowers that is arranged in an attractive way
+hedious (adj) = very ugly or unpleasant
+
+------
+conversely = इसके विपरीत
+setback = नाकामयाबी, bad luck, failure
+enormous = विशाल
+apparent = प्रकट
+strikingly = आश्चर्यजनक ढंग से
+ally = मित्र
+outrage = उल्लंघन
+
+--------------
+meticulously = पूरी बारीकी से
+coercion = दबाव
+spot on = exactly right, एकदम सही
+momentary = क्षणिक
+furthermore = आगे
+antidote = ?
+envision = कल्पना करना
+
+Atomic Habits = 28
+
+------------------------
+Marbles = पत्थर
+scarcity = विरलता दुर्लभता अभाव
+dexterity = skill at doing things,
+especially with your hands
+cadence = the rise and fall of the voice in speaking
+
+----------------
+don't pontificate => उपदेश मत दो
+
+stay out of the weeds => 
+Avoid bad or unnecessary things/people.
+Stay away from weeds
+
+-----------------
+pathetic -> very bad, weak or useless
+
+
+
 
 
 
